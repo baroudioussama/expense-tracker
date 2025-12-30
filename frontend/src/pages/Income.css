@@ -1,0 +1,39 @@
+.income-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.income-list {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.source-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background: #43e97b;
+  color: white;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.amount-positive {
+  font-weight: 600;
+  color: #43e97b;
+}
+
+.total-card.positive {
+  background: linear-gradient(135deg, #43e97b 0%, #38d39f 100%);
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .income-container {
+    padding: 1rem;
+  }
+}

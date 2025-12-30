@@ -1,0 +1,1551 @@
+expense_id,amount,merchant,description,category
+E94,53.49,Chipotle,pizza,Food
+E1152,291.41,Expedia,flight ticket,Travel
+E1006,175.63,CVS,medicine,Other
+E1184,270.2,Southwest,holiday,Travel
+E328,62.12,Gas Station,ride share,Transport
+E140,74.5,Chipotle,food shopping,Food
+E663,64.36,Xbox,streaming service,Entertainment
+E1010,378.53,Pharmacy,medicine,Other
+E1237,835.46,Delta,accommodation,Travel
+E1047,119.91,Doctor Office,dental checkup,Other
+E1207,1196.68,Delta,hotel booking,Travel
+E696,73.21,Cinema,netflix subscription,Entertainment
+E742,385.13,Allstate,life insurance,Insurance
+E1442,152.64,Children's Place,kids necessities,Kids
+E1404,230.75,Service Center,car parts,Car
+E730,485.97,Health Insurance,auto coverage,Insurance
+E100,51.83,Local Restaurant,breakfast,Food
+E324,90.19,Gas Station,subway fare,Transport
+E348,58.74,Metro,car ride,Transport
+E109,53.92,Starbucks,dinner,Food
+E105,31.21,Local Restaurant,supermarket,Food
+E436,141.2,Verizon,gas bill,Utilities
+E1056,104.15,Medical Center,dental checkup,Other
+E432,67.21,Internet Provider,utility payment,Utilities
+E336,125.54,Taxi,transportation,Transport
+E437,269.69,AT&T,energy bill,Utilities
+E958,54.96,Zara,online shopping,Other
+E1254,413.7,Loan Company,credit card payment,Debt/Loans
+E1430,347.78,Car Dealer,car repair,Car
+E1160,802.97,Expedia,flight ticket,Travel
+E864,297.22,Walmart,gadgets,Other
+E1139,763.21,Online Course,study materials,School
+E780,460.09,Auto Insurance,medical insurance,Insurance
+E119,14.6,Starbucks,meat and vegetables,Food
+E1322,407.95,Credit Card,credit payment,Debt/Loans
+E1488,168.16,Daycare,daycare,Kids
+E1004,317.49,Dentist,medical appointment,Other
+E14,72.18,Burger King,weekly groceries,Food
+E543,1667.75,Housing Authority,lease payment,Rent/Mortgage
+E266,110.86,Shell,subway fare,Transport
+E1148,982.45,Library,school supplies,School
+E43,43.83,McDonald's,dairy products,Food
+E289,73.28,Uber,transportation,Transport
+E803,115.54,Auto Insurance,insurance payment,Insurance
+E1369,381.49,Tire Shop,tire replacement,Car
+E1271,679.18,Bank,student loan,Debt/Loans
+E953,68.47,Department Store,gadgets,Other
+E805,293.01,Health Insurance,life insurance,Insurance
+E843,106.97,Walmart,shoes,Other
+E939,244.45,Target,gadgets,Other
+E217,126.04,Chevron,subway fare,Transport
+E1393,179.04,Car Wash,tire replacement,Car
+E1477,98.26,School,kids necessities,Kids
+E914,128.57,Online Store,online shopping,Other
+E130,68.74,Cafe,pizza,Food
+E1253,424.85,Chase,student loan,Debt/Loans
+E599,48.6,Xbox,theater tickets,Entertainment
+E605,49.54,PlayStation,streaming service,Entertainment
+E222,125.65,Exxon,gas fill up,Transport
+E781,152.7,Insurance Co,insurance payment,Insurance
+E355,237.17,City Utilities,water bill,Utilities
+E526,1572.63,Apartment Complex,rental fee,Rent/Mortgage
+E555,1972.81,Real Estate,mortgage payment,Rent/Mortgage
+E12,10.47,Starbucks,weekly groceries,Food
+E396,227.62,City Utilities,gas bill,Utilities
+E1361,136.36,Tire Shop,tire replacement,Car
+E225,91.56,Chevron,ride share,Transport
+E1028,83.81,Doctor Office,health checkup,Other
+E1508,189.66,401k,savings deposit,Saving
+E1216,1225.15,Booking.com,travel expenses,Travel
+E1048,286.82,Clinic,pharmacy,Other
+E698,73.56,HBO Max,theater tickets,Entertainment
+E446,194.05,Electric Company,energy bill,Utilities
+E1282,461.57,Bank,credit payment,Debt/Loans
+E1265,465.95,Wells Fargo,mortgage interest,Debt/Loans
+E965,113.03,Macy's,online shopping,Other
+E859,184.41,Amazon,accessories,Other
+E697,49.61,HBO Max,netflix subscription,Entertainment
+E1353,227.01,Tire Shop,car service,Car
+E358,227.66,City Utilities,water bill,Utilities
+E345,13.23,Parking Lot,commute,Transport
+E304,19.83,Metro,parking fee,Transport
+E1170,927.27,Booking.com,hotel booking,Travel
+E1206,1255.57,Travel Agency,hotel booking,Travel
+E340,55.72,Metro,train ticket,Transport
+E934,96.83,Target,clothes shopping,Other
+E666,67.72,Game Store,shows,Entertainment
+E147,83.49,Starbucks,takeout,Food
+E1493,56.18,Daycare,toys,Kids
+E746,148.29,Insurance Co,car insurance,Insurance
+E868,260.52,Amazon,fashion,Other
+E1525,636.78,IRA,retirement contribution,Saving
+E876,284.45,Walmart,shoes,Other
+E1294,197.97,Loan Company,mortgage interest,Debt/Loans
+E1060,236.34,Pharmacy,medication,Other
+E720,15.93,Disney+,streaming service,Entertainment
+E113,35.14,Starbucks,supermarket,Food
+E610,45.87,Netflix,entertainment subscription,Entertainment
+E1336,326.7,Service Center,tire replacement,Car
+E714,9.47,Concert Hall,netflix subscription,Entertainment
+E642,66.81,HBO Max,streaming service,Entertainment
+E1284,215.94,Bank,loan payment,Debt/Loans
+E1222,269.49,Hotel.com,flight ticket,Travel
+E121,49.3,Cafe,grocery store,Food
+E68,69.4,Taco Bell,burger,Food
+E723,179.19,Insurance Co,insurance payment,Insurance
+E1094,170.9,Library,learning materials,School
+E1356,214.0,Oil Change,car parts,Car
+E363,114.93,Internet Provider,heating,Utilities
+E312,126.25,Gas Station,subway fare,Transport
+E290,112.9,Uber,transportation,Transport
+E734,454.39,Allstate,home insurance,Insurance
+E820,420.88,State Farm,home insurance,Insurance
+E829,103.39,Best Buy,accessories,Other
+E1052,34.3,Doctor Office,medication,Other
+E379,148.15,Water Dept,power bill,Utilities
+E770,285.72,Health Insurance,insurance premium,Insurance
+E443,292.93,Comcast,home utilities,Utilities
+E1122,634.79,Bookstore,study materials,School
+E271,114.42,Lyft,bus ticket,Transport
+E1013,176.74,Dentist,doctor visit,Other
+E71,99.24,Food Truck,takeout,Food
+E453,260.16,Phone Company,utility payment,Utilities
+E1482,36.55,Babysitter,babysitting,Kids
+E353,244.24,Comcast,gas bill,Utilities
+E382,242.18,Verizon,gas bill,Utilities
+E751,325.47,State Farm,medical insurance,Insurance
+E26,80.92,Chipotle,supermarket,Food
+E199,57.72,Starbucks,grocery store,Food
+E318,40.76,Shell,car ride,Transport
+E892,91.16,Nordstrom,retail shopping,Other
+E659,30.74,Spotify,video game,Entertainment
+E1487,174.25,Babysitter,daycare,Kids
+E1092,246.04,Library,tuition,School
+E322,95.82,BP,bus ticket,Transport
+E6,90.93,Burger King,fresh produce,Food
+E715,62.3,Spotify,gaming,Entertainment
+E1313,714.8,Loan Company,car loan,Debt/Loans
+E1447,169.24,Children's Place,kids clothes,Kids
+E356,170.6,Verizon,cooling,Utilities
+E1304,798.63,Credit Card,mortgage interest,Debt/Loans
+E402,104.18,City Utilities,energy bill,Utilities
+E55,57.81,Panera Bread,coffee,Food
+E685,44.33,Netflix,shows,Entertainment
+E216,46.99,Lyft,taxi fare,Transport
+E595,56.48,Concert Hall,concert ticket,Entertainment
+E157,81.31,Food Truck,dairy products,Food
+E307,70.62,Chevron,car ride,Transport
+E551,1270.12,Real Estate,apartment rent,Rent/Mortgage
+E19,66.98,Food Truck,takeout,Food
+E202,139.75,Uber,fuel,Transport
+E814,448.05,Progressive,insurance payment,Insurance
+E279,82.87,Taxi,parking fee,Transport
+E1349,181.55,Service Center,car wash,Car
+E125,33.02,Starbucks,takeout,Food
+E416,67.31,Phone Company,power bill,Utilities
+E1384,316.89,Service Center,car service,Car
+E993,361.82,Walgreens,medication,Other
+E127,18.23,Local Restaurant,burger,Food
+E195,78.2,Taco Bell,coffee,Food
+E535,1714.38,Property Management,house payment,Rent/Mortgage
+E1397,68.58,Service Center,car repair,Car
+E1528,634.28,Bank,savings plan,Saving
+E1546,957.78,Savings Account,investment fund,Saving
+E1077,948.64,University,books,School
+E213,93.94,Metro,subway fare,Transport
+E1103,719.4,Online Course,textbooks,School
+E682,17.64,Cinema,music subscription,Entertainment
+E439,50.19,Internet Provider,utility payment,Utilities
+E261,117.55,Parking Lot,taxi fare,Transport
+E906,195.21,Macy's,accessories,Other
+E511,1262.53,Apartment Complex,rent payment,Rent/Mortgage
+E639,25.54,Amazon Prime,streaming service,Entertainment
+E1325,686.52,Capital One,mortgage interest,Debt/Loans
+E1517,707.34,Bank,retirement contribution,Saving
+E364,114.78,City Utilities,power bill,Utilities
+E614,79.07,Concert Hall,concert ticket,Entertainment
+E465,140.25,Verizon,heating,Utilities
+E653,43.68,Theater,concert ticket,Entertainment
+E1211,316.13,United,holiday,Travel
+E1280,436.4,Lending Company,student loan,Debt/Loans
+E584,34.57,Amazon Prime,movies,Entertainment
+E1342,382.34,Car Dealer,auto repair,Car
+E718,42.2,Steam,movies,Entertainment
+E17,68.81,Pizza Hut,groceries shopping,Food
+E1181,964.62,Airlines,travel expenses,Travel
+E181,21.17,Starbucks,groceries shopping,Food
+E1018,123.65,CVS,medicine,Other
+E593,74.07,Cinema,shows,Entertainment
+E1151,1034.55,Travel Agency,travel expenses,Travel
+E1154,616.04,Southwest,travel booking,Travel
+E1086,668.21,Online Course,textbooks,School
+E177,77.91,Dunkin Donuts,food shopping,Food
+E323,83.43,Taxi,ride share,Transport
+E517,1238.06,Apartment Complex,house payment,Rent/Mortgage
+E208,100.15,Parking Lot,gas fill up,Transport
+E372,179.06,City Utilities,cooling,Utilities
+E1171,436.24,Expedia,travel expenses,Travel
+E1202,830.46,Hotel.com,travel booking,Travel
+E1385,470.33,Car Wash,car service,Car
+E559,1382.51,Bank,monthly rent,Rent/Mortgage
+E1088,912.27,Education Center,training,School
+E1267,249.37,Lending Company,debt payment,Debt/Loans
+E617,75.83,Theater,theater tickets,Entertainment
+E735,494.89,Geico,auto coverage,Insurance
+E242,102.8,Train Station,commute,Transport
+E251,59.39,Train Station,ride share,Transport
+E692,29.04,Concert Hall,video game,Entertainment
+E652,49.53,Amazon Prime,movies,Entertainment
+E921,68.24,Walmart,accessories,Other
+E618,13.45,Game Store,netflix subscription,Entertainment
+E48,92.72,Cafe,coffee,Food
+E955,133.83,Amazon,household items,Other
+E308,10.2,Parking Lot,subway fare,Transport
+E411,94.27,City Utilities,electricity bill,Utilities
+E1113,159.24,Udemy,course fee,School
+E747,152.02,Progressive,medical insurance,Insurance
+E1236,650.59,Expedia,travel booking,Travel
+E1518,743.8,Investment,savings transfer,Saving
+E804,320.39,Auto Insurance,auto coverage,Insurance
+E1142,241.72,Coursera,textbooks,School
+E1468,173.53,Toy Store,daycare,Kids
+E896,61.74,Nordstrom,online shopping,Other
+E865,274.53,H&M,accessories,Other
+E835,228.86,Zara,online shopping,Other
+E918,298.9,Online Store,household items,Other
+E1112,40.16,School,online course,School
+E717,73.9,Theater,movie ticket,Entertainment
+E1043,260.88,Doctor Office,doctor visit,Other
+E986,292.17,Clinic,dental checkup,Other
+E1240,936.18,Delta,flight ticket,Travel
+E273,97.3,Gas Station,train ticket,Transport
+E339,116.26,Shell,car ride,Transport
+E347,118.28,BP,taxi fare,Transport
+E477,976.12,Property Management,house payment,Rent/Mortgage
+E1016,150.71,Clinic,doctor visit,Other
+E149,72.78,Burger King,groceries shopping,Food
+E1141,820.06,Bookstore,learning materials,School
+E438,200.23,Comcast,electricity bill,Utilities
+E602,77.7,Disney+,theater tickets,Entertainment
+E1272,228.33,Chase,credit card payment,Debt/Loans
+E1275,667.69,Wells Fargo,student loan,Debt/Loans
+E23,91.92,Taco Bell,snack,Food
+E869,190.47,Nike,electronics,Other
+E845,271.4,H&M,electronics,Other
+E489,1636.62,Landlord,house payment,Rent/Mortgage
+E890,73.3,Best Buy,accessories,Other
+E314,129.48,Shell,subway fare,Transport
+E204,94.82,Parking Lot,taxi fare,Transport
+E1513,582.76,IRA,investment fund,Saving
+E1022,302.2,Medical Center,medication,Other
+E960,292.39,Best Buy,home goods,Other
+E1362,329.64,Car Wash,car maintenance,Car
+E1474,58.58,Kids Store,kids clothes,Kids
+E425,222.71,Verizon,energy bill,Utilities
+E351,143.02,Phone Company,internet bill,Utilities
+E10,19.97,Local Restaurant,meat and vegetables,Food
+E1450,182.12,Toy Store,babysitting,Kids
+E426,62.65,Verizon,internet bill,Utilities
+E658,74.71,Cinema,netflix subscription,Entertainment
+E272,131.0,Bus Station,commute,Transport
+E398,259.54,Phone Company,gas bill,Utilities
+E83,87.79,Burger King,meal,Food
+E1128,961.73,Education Center,learning materials,School
+E1545,821.16,Retirement Fund,401k contribution,Saving
+E589,31.38,Game Store,gaming,Entertainment
+E1413,56.97,Service Center,oil change,Car
+E33,48.19,Starbucks,snack,Food
+E527,2308.97,Apartment Complex,rental fee,Rent/Mortgage
+E1040,298.99,Pharmacy,pharmacy,Other
+E1130,917.61,Education Center,learning materials,School
+E98,15.7,Local Restaurant,meal,Food
+E923,27.82,Nordstrom,clothes shopping,Other
+E1431,47.68,School,children supplies,Kids
+E1015,67.69,Doctor Office,hospital bill,Other
+E1542,530.67,Brokerage,401k contribution,Saving
+E989,286.96,Walgreens,doctor visit,Other
+E1257,592.75,Capital One,debt payment,Debt/Loans
+E500,1409.45,Mortgage Company,rental fee,Rent/Mortgage
+E951,166.9,Walmart,electronics,Other
+E1063,391.83,Dentist,medical appointment,Other
+E297,70.87,Taxi,transportation,Transport
+E1281,501.17,Credit Card,car loan,Debt/Loans
+E1159,979.45,Delta,accommodation,Travel
+E1218,857.54,Travel Agency,accommodation,Travel
+E1073,151.55,Coursera,tuition,School
+E1136,970.51,Coursera,education,School
+E887,104.13,H&M,clothes shopping,Other
+E361,249.54,Phone Company,phone bill,Utilities
+E1302,723.61,Wells Fargo,loan payment,Debt/Loans
+E1400,147.59,Auto Parts,car wash,Car
+E1165,977.12,United,trip,Travel
+E1550,206.5,401k,savings deposit,Saving
+E587,21.25,HBO Max,video game,Entertainment
+E117,65.03,Burger King,food shopping,Food
+E1110,583.43,Bookstore,study materials,School
+E870,267.92,Department Store,tech purchase,Other
+E248,103.62,Taxi,car ride,Transport
+E862,212.12,Best Buy,home goods,Other
+E8,94.95,Local Restaurant,dairy products,Food
+E124,46.17,Subway,grocery store,Food
+E235,93.12,Uber,toll fee,Transport
+E950,117.46,Nordstrom,shoes,Other
+E1409,149.36,Auto Parts,vehicle maintenance,Car
+E487,2471.81,Apartment Complex,lease payment,Rent/Mortgage
+E494,2241.79,Property Management,house payment,Rent/Mortgage
+E227,15.06,Gas Station,subway fare,Transport
+E948,174.26,Macy's,fashion,Other
+E1365,293.09,Mechanic,car parts,Car
+E103,69.0,Panera Bread,fast food,Food
+E1436,135.8,Toys R Us,kids necessities,Kids
+E360,165.92,Electric Company,water bill,Utilities
+E205,104.32,Bus Station,car ride,Transport
+E669,55.04,Disney+,spotify premium,Entertainment
+E32,17.12,KFC,burger,Food
+E1175,419.33,Airbnb,holiday,Travel
+E1235,120.81,Expedia,hotel booking,Travel
+E44,15.9,Chipotle,dinner,Food
+E475,2241.78,Real Estate,monthly rent,Rent/Mortgage
+E1027,86.33,Hospital,medicine,Other
+E1433,129.4,Toys R Us,toys,Kids
+E471,1825.61,Apartment Complex,mortgage payment,Rent/Mortgage
+E88,43.68,Burger King,snack,Food
+E576,48.69,Steam,movies,Entertainment
+E972,99.44,Doctor Office,medical expense,Other
+E657,76.28,Amazon Prime,movies,Entertainment
+E1243,1008.44,Hotel.com,tourism,Travel
+E807,305.64,Health Insurance,home insurance,Insurance
+E777,258.11,Progressive,auto coverage,Insurance
+E940,259.93,Zara,online shopping,Other
+E241,55.38,Gas Station,bus ticket,Transport
+E1495,173.48,Kids Store,babysitting,Kids
+E582,19.33,Concert Hall,video game,Entertainment
+E72,99.67,McDonald's,burger,Food
+E374,115.33,Electric Company,power bill,Utilities
+E321,66.7,Bus Station,metro card,Transport
+E664,29.89,Cinema,entertainment subscription,Entertainment
+E410,132.16,AT&T,power bill,Utilities
+E873,258.71,H&M,home goods,Other
+E1066,367.27,CVS,medical appointment,Other
+E765,301.97,Progressive,life insurance,Insurance
+E721,281.72,State Farm,insurance payment,Insurance
+E992,173.43,CVS,pharmacy,Other
+E362,177.41,AT&T,phone bill,Utilities
+E547,2462.94,Housing Authority,housing payment,Rent/Mortgage
+E42,58.32,McDonald's,food shopping,Food
+E284,44.09,Parking Lot,transportation,Transport
+E101,58.44,Subway,supermarket,Food
+E1178,1339.67,Booking.com,trip,Travel
+E192,37.51,Chipotle,weekly groceries,Food
+E842,206.07,Amazon,gadgets,Other
+E491,1121.26,Real Estate,apartment rent,Rent/Mortgage
+E769,322.7,Allstate,health insurance,Insurance
+E619,75.63,HBO Max,gaming,Entertainment
+E1210,710.79,Expedia,hotel booking,Travel
+E1197,232.65,Airbnb,airfare,Travel
+E367,180.71,City Utilities,gas bill,Utilities
+E521,2095.09,Mortgage Company,apartment rent,Rent/Mortgage
+E1347,100.2,Tire Shop,auto repair,Car
+E961,288.06,Amazon,clothing purchase,Other
+E785,492.83,Geico,car insurance,Insurance
+E565,1808.77,Mortgage Company,house payment,Rent/Mortgage
+E1037,57.03,Walgreens,pharmacy,Other
+E530,2482.27,Apartment Complex,lease payment,Rent/Mortgage
+E673,68.12,HBO Max,netflix subscription,Entertainment
+E646,6.51,Disney+,movie ticket,Entertainment
+E1345,362.91,Car Dealer,car maintenance,Car
+E403,123.14,Verizon,electricity bill,Utilities
+E1496,147.35,School,kids necessities,Kids
+E1199,147.48,United,flight ticket,Travel
+E1067,372.19,Doctor Office,doctor visit,Other
+E1074,509.75,Online Course,study materials,School
+E153,38.03,KFC,groceries shopping,Food
+E1188,585.07,Booking.com,vacation,Travel
+E467,74.78,City Utilities,electricity bill,Utilities
+E505,1223.19,Apartment Complex,monthly rent,Rent/Mortgage
+E504,1272.22,Real Estate,apartment rent,Rent/Mortgage
+E1344,498.97,Auto Parts,car maintenance,Car
+E866,85.86,Amazon,home goods,Other
+E440,186.99,Electric Company,electricity bill,Utilities
+E478,1485.85,Apartment Complex,apartment rent,Rent/Mortgage
+E1263,340.61,Discover,credit payment,Debt/Loans
+E716,17.78,HBO Max,netflix subscription,Entertainment
+E678,65.51,Disney+,concert ticket,Entertainment
+E85,51.08,Chipotle,dairy products,Food
+E1532,527.42,Brokerage,401k contribution,Saving
+E350,134.11,Chevron,taxi fare,Transport
+E442,190.41,Water Dept,monthly utilities,Utilities
+E1320,130.57,Loan Company,credit payment,Debt/Loans
+E548,1782.55,Mortgage Company,housing payment,Rent/Mortgage
+E1448,140.23,Kids Store,babysitting,Kids
+E1402,63.2,Tire Shop,oil change,Car
+E335,70.44,Uber,parking fee,Transport
+E1082,433.96,Education Center,textbooks,School
+E969,33.7,Zara,online shopping,Other
+E1291,311.49,Chase,personal loan,Debt/Loans
+E407,159.24,Gas Company,gas bill,Utilities
+E1464,116.71,Babysitter,daycare,Kids
+E1231,654.28,Hotel.com,trip,Travel
+E1111,724.03,Education Center,study materials,School
+E1303,580.73,Lending Company,personal loan,Debt/Loans
+E320,53.86,Gas Station,toll fee,Transport
+E1341,54.83,Car Dealer,tire replacement,Car
+E665,30.53,Disney+,netflix subscription,Entertainment
+E221,33.3,Lyft,parking fee,Transport
+E586,76.49,Amazon Prime,music subscription,Entertainment
+E508,2229.83,Property Management,rental fee,Rent/Mortgage
+E1219,491.62,Expedia,vacation,Travel
+E636,9.24,Concert Hall,entertainment subscription,Entertainment
+E265,79.17,Shell,bus ticket,Transport
+E156,6.72,Local Restaurant,weekly groceries,Food
+E1363,78.1,Tire Shop,auto repair,Car
+E1439,30.3,Toys R Us,kids activities,Kids
+E633,46.67,Concert Hall,netflix subscription,Entertainment
+E1038,148.09,Dentist,pharmacy,Other
+E705,70.1,Disney+,streaming service,Entertainment
+E1446,148.48,Daycare,children supplies,Kids
+E383,85.03,Internet Provider,home utilities,Utilities
+E964,264.49,Target,online shopping,Other
+E897,134.94,Walmart,shoes,Other
+E1264,266.0,Capital One,credit card payment,Debt/Loans
+E296,125.56,Exxon,uber ride,Transport
+E889,73.75,H&M,online shopping,Other
+E184,16.05,Diner,coffee,Food
+E415,94.26,Verizon,monthly utilities,Utilities
+E430,291.0,City Utilities,power bill,Utilities
+E534,1001.32,Property Management,rent payment,Rent/Mortgage
+E91,46.56,McDonald's,coffee,Food
+E1186,616.42,Airlines,tourism,Travel
+E1540,359.37,401k,savings plan,Saving
+E1057,102.57,Walgreens,health checkup,Other
+E1475,48.05,Daycare,school fees,Kids
+E585,67.58,Concert Hall,theater tickets,Entertainment
+E1293,238.55,Discover,debt payment,Debt/Loans
+E1300,413.53,Loan Company,car loan,Debt/Loans
+E334,38.38,Uber,parking fee,Transport
+E1002,294.8,Pharmacy,medicine,Other
+E838,52.94,Amazon,online shopping,Other
+E1520,555.24,401k,savings plan,Saving
+E1020,306.89,Pharmacy,medical expense,Other
+E419,82.19,AT&T,phone bill,Utilities
+E1098,804.83,Coursera,online course,School
+E1269,719.43,Bank,credit card payment,Debt/Loans
+E1314,424.53,Lending Company,student loan,Debt/Loans
+E90,83.16,Pizza Hut,meat and vegetables,Food
+E3,43.98,Panera Bread,meat and vegetables,Food
+E1032,283.56,Pharmacy,doctor visit,Other
+E392,227.81,Phone Company,heating,Utilities
+E1187,762.29,Southwest,tourism,Travel
+E1330,430.11,Credit Card,car loan,Debt/Loans
+E758,124.4,State Farm,medical insurance,Insurance
+E886,178.94,Nike,online shopping,Other
+E1209,774.14,Airlines,travel expenses,Travel
+E490,2294.52,Property Management,rental fee,Rent/Mortgage
+E1201,1051.25,Airbnb,hotel booking,Travel
+E583,57.6,Netflix,music subscription,Entertainment
+E538,2044.11,Property Management,house payment,Rent/Mortgage
+E787,187.54,Geico,insurance payment,Insurance
+E37,36.07,KFC,weekly groceries,Food
+E853,260.5,Nordstrom,clothing purchase,Other
+E1109,263.66,University,tuition,School
+E352,143.65,Verizon,monthly utilities,Utilities
+E562,1524.72,Property Management,house payment,Rent/Mortgage
+E592,72.86,Cinema,streaming service,Entertainment
+E1455,142.49,Babysitter,toys,Kids
+E1138,507.65,Coursera,school supplies,School
+E815,119.01,Geico,medical insurance,Insurance
+E676,27.69,Theater,netflix subscription,Entertainment
+E470,69.2,Internet Provider,utility payment,Utilities
+E604,43.5,HBO Max,gaming,Entertainment
+E528,2311.31,Apartment Complex,monthly rent,Rent/Mortgage
+E1296,464.45,Credit Card,mortgage interest,Debt/Loans
+E1373,217.18,Oil Change,car parts,Car
+E944,90.02,Department Store,electronics,Other
+E188,85.66,Starbucks,burger,Food
+E877,232.03,Zara,household items,Other
+E186,76.07,Starbucks,meal,Food
+E710,79.31,PlayStation,streaming service,Entertainment
+E139,7.48,Food Truck,food shopping,Food
+E616,69.63,Netflix,spotify premium,Entertainment
+E629,66.72,Netflix,streaming service,Entertainment
+E131,9.29,Taco Bell,groceries shopping,Food
+E281,83.0,Taxi,subway fare,Transport
+E1441,145.15,Toy Store,kids necessities,Kids
+E15,51.12,Burger King,supermarket,Food
+E50,37.73,Subway,dinner,Food
+E987,166.13,Doctor Office,pharmacy,Other
+E486,2369.19,Housing Authority,lease payment,Rent/Mortgage
+E863,184.13,Best Buy,online shopping,Other
+E871,244.97,Nike,gadgets,Other
+E230,19.9,Shell,fuel,Transport
+E1547,794.01,Bank,investment,Saving
+E1058,301.02,Clinic,medication,Other
+E911,195.34,Online Store,household items,Other
+E375,261.12,Gas Company,gas bill,Utilities
+E1003,250.88,Medical Center,medical appointment,Other
+E1124,950.95,Education Center,textbooks,School
+E1416,226.47,Oil Change,car maintenance,Car
+E1329,174.18,Wells Fargo,credit payment,Debt/Loans
+E985,268.98,Dentist,health checkup,Other
+E1523,447.5,Investment,savings transfer,Saving
+E173,25.02,Food Truck,food shopping,Food
+E332,100.75,Parking Lot,uber ride,Transport
+E683,61.85,Steam,spotify premium,Entertainment
+E1480,102.91,School,kids clothes,Kids
+E588,77.3,Cinema,concert ticket,Entertainment
+E399,147.4,Phone Company,electricity bill,Utilities
+E172,36.48,Cafe,food shopping,Food
+E903,299.03,Amazon,clothing purchase,Other
+E701,61.05,Disney+,shows,Entertainment
+E107,73.3,Dunkin Donuts,fast food,Food
+E925,68.78,Best Buy,clothing purchase,Other
+E377,263.91,Gas Company,internet bill,Utilities
+E1348,78.19,Auto Parts,vehicle maintenance,Car
+E306,75.89,Parking Lot,transportation,Transport
+E1050,211.46,Dentist,hospital bill,Other
+E249,83.75,Chevron,subway fare,Transport
+E672,10.9,Cinema,theater tickets,Entertainment
+E2,96.91,Burger King,sandwich,Food
+E1471,73.08,School,school fees,Kids
+E1408,405.62,Oil Change,auto repair,Car
+E1274,751.71,Discover,debt payment,Debt/Loans
+E191,15.09,Subway,dinner,Food
+E568,1506.85,Bank,housing payment,Rent/Mortgage
+E1368,231.66,Mechanic,car wash,Car
+E1068,319.69,Pharmacy,doctor visit,Other
+E1145,611.01,Education Center,education,School
+E1227,1170.56,Southwest,hotel booking,Travel
+E974,34.58,Medical Center,medication,Other
+E283,82.32,Uber,bus ticket,Transport
+E1401,392.49,Service Center,vehicle maintenance,Car
+E473,2118.31,Real Estate,monthly rent,Rent/Mortgage
+E872,92.67,Nordstrom,accessories,Other
+E1396,216.78,Car Dealer,tire replacement,Car
+E626,54.28,Xbox,netflix subscription,Entertainment
+E62,38.7,Taco Bell,fast food,Food
+E637,17.96,Xbox,entertainment subscription,Entertainment
+E368,165.68,AT&T,cooling,Utilities
+E1239,680.66,Booking.com,flight ticket,Travel
+E789,487.54,Geico,medical insurance,Insurance
+E1189,958.01,Travel Agency,travel booking,Travel
+E837,63.08,Walmart,gadgets,Other
+E1285,529.56,Chase,student loan,Debt/Loans
+E1134,206.29,Education Center,school supplies,School
+E966,113.67,Nike,tech purchase,Other
+E749,471.56,Insurance Co,insurance payment,Insurance
+E677,21.41,Xbox,concert ticket,Entertainment
+E384,265.32,Comcast,energy bill,Utilities
+E51,69.87,Pizza Hut,snack,Food
+E1490,47.6,Toys R Us,kids activities,Kids
+E644,76.41,Concert Hall,music subscription,Entertainment
+E1298,277.37,Bank,debt payment,Debt/Loans
+E1466,118.64,Daycare,kids necessities,Kids
+E381,65.49,Water Dept,heating,Utilities
+E1331,259.69,Auto Shop,tire replacement,Car
+E287,113.46,Lyft,parking fee,Transport
+E1434,144.24,Daycare,school fees,Kids
+E401,185.29,Gas Company,energy bill,Utilities
+E707,73.82,Cinema,movies,Entertainment
+E533,1265.36,Apartment Complex,rent payment,Rent/Mortgage
+E1001,73.71,Clinic,medicine,Other
+E106,81.03,Taco Bell,takeout,Food
+E1019,103.4,Walgreens,pharmacy,Other
+E1411,220.3,Service Center,car wash,Car
+E1042,320.74,Clinic,medical expense,Other
+E799,282.4,Auto Insurance,insurance premium,Insurance
+E262,92.35,Parking Lot,taxi fare,Transport
+E80,57.05,Food Truck,food shopping,Food
+E922,180.87,Department Store,gadgets,Other
+E689,49.68,Disney+,streaming service,Entertainment
+E1343,370.43,Car Dealer,auto repair,Car
+E1279,462.85,Lending Company,mortgage interest,Debt/Loans
+E1097,968.58,Library,training,School
+E823,81.97,Best Buy,electronics,Other
+E185,79.48,Panera Bread,sandwich,Food
+E1036,357.92,Walgreens,doctor visit,Other
+E1177,171.31,Delta,accommodation,Travel
+E909,260.56,Amazon,retail shopping,Other
+E782,374.25,Allstate,life insurance,Insurance
+E1115,918.54,Coursera,study materials,School
+E936,78.2,Amazon,home goods,Other
+E79,19.48,KFC,supermarket,Food
+E885,66.02,Amazon,home goods,Other
+E148,45.87,Chipotle,lunch,Food
+E1140,121.57,Udemy,tuition,School
+E825,109.16,Online Store,household items,Other
+E1307,366.18,Credit Card,car loan,Debt/Loans
+E243,33.63,Chevron,uber ride,Transport
+E370,282.57,Comcast,utility payment,Utilities
+E775,312.17,Insurance Co,health insurance,Insurance
+E783,324.41,Insurance Co,insurance premium,Insurance
+E197,73.61,Subway,sandwich,Food
+E688,68.78,Xbox,gaming,Entertainment
+E1297,504.77,Capital One,loan payment,Debt/Loans
+E1062,256.32,Clinic,hospital bill,Other
+E577,45.3,PlayStation,netflix subscription,Entertainment
+E557,1266.34,Mortgage Company,house payment,Rent/Mortgage
+E881,75.8,Nordstrom,electronics,Other
+E1460,68.3,Daycare,school fees,Kids
+E638,70.42,Steam,concert ticket,Entertainment
+E813,371.42,State Farm,medical insurance,Insurance
+E1511,781.27,IRA,retirement contribution,Saving
+E73,84.38,Subway,meat and vegetables,Food
+E1091,110.32,Udemy,textbooks,School
+E858,87.94,Nike,tech purchase,Other
+E1462,80.79,Daycare,kids necessities,Kids
+E1537,915.95,Brokerage,savings deposit,Saving
+E1481,29.14,Toy Store,children supplies,Kids
+E1453,95.23,Daycare,babysitting,Kids
+E187,85.34,Panera Bread,meal,Food
+E1012,230.57,Dentist,medicine,Other
+E417,73.41,City Utilities,internet bill,Utilities
+E743,162.95,Health Insurance,life insurance,Insurance
+E706,49.55,Amazon Prime,netflix subscription,Entertainment
+E963,183.77,Target,shoes,Other
+E1083,336.58,University,school supplies,School
+E507,1612.84,Bank,apartment rent,Rent/Mortgage
+E905,98.89,H&M,tech purchase,Other
+E828,276.99,Zara,electronics,Other
+E1527,850.39,IRA,retirement contribution,Saving
+E65,69.33,Pizza Hut,food shopping,Food
+E201,45.33,Uber,parking fee,Transport
+E1414,257.54,Oil Change,car service,Car
+E1424,129.97,Car Dealer,car service,Car
+E1163,426.13,United,airfare,Travel
+E767,457.03,Insurance Co,car insurance,Insurance
+E479,1678.48,Bank,rental fee,Rent/Mortgage
+E1425,65.49,Car Wash,car repair,Car
+E215,16.96,Bus Station,gas fill up,Transport
+E1406,116.7,Auto Shop,car wash,Car
+E1250,1469.91,Airbnb,tourism,Travel
+E313,82.29,Exxon,parking fee,Transport
+E96,12.57,Chipotle,sandwich,Food
+E798,373.04,Insurance Co,home insurance,Insurance
+E138,49.72,Starbucks,breakfast,Food
+E611,64.96,Theater,shows,Entertainment
+E1121,823.3,University,online course,School
+E1255,116.93,Credit Card,loan payment,Debt/Loans
+E41,48.13,Diner,breakfast,Food
+E482,2207.81,Real Estate,house payment,Rent/Mortgage
+E759,295.16,Geico,medical insurance,Insurance
+E211,147.69,Metro,toll fee,Transport
+E394,188.73,Water Dept,gas bill,Utilities
+E1459,168.64,Daycare,babysitting,Kids
+E146,84.79,Cafe,dinner,Food
+E115,71.2,Local Restaurant,dinner,Food
+E224,100.52,Taxi,metro card,Transport
+E671,20.17,Xbox,movies,Entertainment
+E703,11.62,PlayStation,entertainment subscription,Entertainment
+E681,67.97,Theater,movie ticket,Entertainment
+E1372,153.26,Service Center,auto repair,Car
+E1376,325.9,Mechanic,car service,Car
+E1155,1387.56,United,trip,Travel
+E209,80.75,Train Station,fuel,Transport
+E67,33.75,Cafe,groceries shopping,Food
+E760,436.73,Geico,life insurance,Insurance
+E503,1208.58,Apartment Complex,rent payment,Rent/Mortgage
+E182,42.69,Dunkin Donuts,supermarket,Food
+E1035,193.74,Pharmacy,medication,Other
+E741,446.58,Auto Insurance,car insurance,Insurance
+E860,153.39,Nordstrom,home goods,Other
+E713,5.14,PlayStation,shows,Entertainment
+E1093,625.46,Education Center,online course,School
+E459,282.01,Gas Company,energy bill,Utilities
+E1276,710.93,Wells Fargo,debt payment,Debt/Loans
+E1084,846.53,School,textbooks,School
+E16,24.98,Food Truck,meat and vegetables,Food
+E1346,349.76,Auto Shop,auto repair,Car
+E1463,46.0,Daycare,toys,Kids
+E128,44.89,Pizza Hut,pizza,Food
+E317,71.41,Exxon,fuel,Transport
+E899,102.73,H&M,shoes,Other
+E1312,569.81,Discover,mortgage interest,Debt/Loans
+E155,19.59,Diner,fast food,Food
+E1418,167.73,Tire Shop,oil change,Car
+E979,191.31,Doctor Office,medicine,Other
+E902,70.17,Department Store,fashion,Other
+E1350,239.38,Auto Parts,auto repair,Car
+E1147,872.56,Coursera,books,School
+E333,135.71,BP,subway fare,Transport
+E1543,869.91,Bank,savings transfer,Saving
+E515,1913.09,Mortgage Company,monthly rent,Rent/Mortgage
+E1164,766.46,Delta,trip,Travel
+E499,1426.49,Property Management,rental fee,Rent/Mortgage
+E874,52.68,Amazon,shoes,Other
+E959,135.59,Nike,fashion,Other
+E1248,1007.65,Expedia,trip,Travel
+E1529,652.52,Retirement Fund,investment,Saving
+E24,38.09,KFC,burger,Food
+E1366,279.42,Tire Shop,tire replacement,Car
+E461,276.53,Electric Company,cooling,Utilities
+E982,130.75,Hospital,medical expense,Other
+E226,81.64,Shell,toll fee,Transport
+E606,35.77,Xbox,movies,Entertainment
+E560,1158.37,Mortgage Company,rental fee,Rent/Mortgage
+E376,153.77,Electric Company,heating,Utilities
+E850,225.3,Macy's,clothing purchase,Other
+E788,339.46,Geico,life insurance,Insurance
+E1260,314.25,Capital One,student loan,Debt/Loans
+E59,64.39,Diner,groceries shopping,Food
+E561,883.97,Apartment Complex,housing payment,Rent/Mortgage
+E920,176.55,Best Buy,retail shopping,Other
+E1533,962.72,401k,401k contribution,Saving
+E540,2187.94,Housing Authority,monthly rent,Rent/Mortgage
+E165,56.93,Subway,lunch,Food
+E1549,511.22,Bank,401k contribution,Saving
+E359,261.52,City Utilities,energy bill,Utilities
+E309,28.92,BP,metro card,Transport
+E412,141.08,Verizon,monthly utilities,Utilities
+E848,35.22,Amazon,clothing purchase,Other
+E1357,202.84,Auto Parts,oil change,Car
+E1301,794.42,Chase,credit payment,Debt/Loans
+E1025,61.44,Dentist,medical appointment,Other
+E795,277.84,State Farm,health insurance,Insurance
+E161,29.53,Burger King,groceries shopping,Food
+E1427,327.48,Mechanic,car wash,Car
+E1096,359.21,Online Course,school supplies,School
+E569,2258.77,Real Estate,rental fee,Rent/Mortgage
+E1538,512.0,Investment,savings transfer,Saving
+E311,11.58,Gas Station,subway fare,Transport
+E365,80.73,Internet Provider,monthly utilities,Utilities
+E25,64.86,Diner,food shopping,Food
+E1379,183.45,Tire Shop,car parts,Car
+E542,1903.17,Landlord,rental fee,Rent/Mortgage
+E1382,200.54,Mechanic,car maintenance,Car
+E1185,170.79,United,airfare,Travel
+E1516,225.28,Investment,investment fund,Saving
+E574,45.84,Xbox,netflix subscription,Entertainment
+E239,94.35,Parking Lot,gas fill up,Transport
+E1295,794.43,Lending Company,credit card payment,Debt/Loans
+E935,102.68,Nike,electronics,Other
+E357,260.99,Electric Company,power bill,Utilities
+E386,225.38,AT&T,home utilities,Utilities
+E212,88.39,BP,fuel,Transport
+E786,107.04,Auto Insurance,home insurance,Insurance
+E531,1045.97,Apartment Complex,rental fee,Rent/Mortgage
+E821,66.68,Best Buy,clothes shopping,Other
+E263,146.73,Parking Lot,car ride,Transport
+E87,90.15,Burger King,pizza,Food
+E13,71.19,McDonald's,fast food,Food
+E126,28.23,Diner,snack,Food
+E1507,274.03,401k,savings transfer,Saving
+E740,206.06,Allstate,life insurance,Insurance
+E196,38.57,Dunkin Donuts,lunch,Food
+E180,24.48,Diner,takeout,Food
+E558,1371.92,Real Estate,monthly rent,Rent/Mortgage
+E108,23.72,KFC,dairy products,Food
+E1278,772.77,Loan Company,mortgage interest,Debt/Loans
+E223,99.39,Chevron,ride share,Transport
+E827,182.11,Walmart,accessories,Other
+E143,73.56,Panera Bread,grocery store,Food
+E69,76.06,KFC,fast food,Food
+E946,282.76,Zara,household items,Other
+E793,233.66,Progressive,life insurance,Insurance
+E1200,1467.66,Airbnb,airfare,Travel
+E89,65.51,Taco Bell,fresh produce,Food
+E773,262.46,Health Insurance,life insurance,Insurance
+E643,42.96,Game Store,music subscription,Entertainment
+E694,50.92,HBO Max,movie ticket,Entertainment
+E168,89.58,Chipotle,dinner,Food
+E1524,941.18,Bank,savings plan,Saving
+E420,95.16,Water Dept,heating,Utilities
+E553,2001.28,Apartment Complex,rental fee,Rent/Mortgage
+E566,1339.14,Property Management,housing payment,Rent/Mortgage
+E510,1598.73,Apartment Complex,rental fee,Rent/Mortgage
+E406,298.05,Electric Company,phone bill,Utilities
+E464,106.19,Water Dept,water bill,Utilities
+E962,28.72,Walmart,online shopping,Other
+E1244,501.96,Airlines,accommodation,Travel
+E1440,184.36,Toys R Us,kids necessities,Kids
+E229,71.98,Exxon,ride share,Transport
+E931,140.47,Zara,tech purchase,Other
+E316,51.83,Uber,metro card,Transport
+E1351,391.58,Tire Shop,car parts,Car
+E1428,60.19,Auto Parts,car maintenance,Car
+E253,46.23,Exxon,uber ride,Transport
+E1308,653.11,Chase,mortgage interest,Debt/Loans
+E1089,588.47,University,course fee,School
+E57,66.64,Burger King,groceries shopping,Food
+E1080,826.0,School,course fee,School
+E450,107.91,Water Dept,utility payment,Utilities
+E1055,160.37,CVS,medicine,Other
+E175,17.26,Diner,supermarket,Food
+E247,105.66,BP,commute,Transport
+E529,1417.06,Property Management,rent payment,Rent/Mortgage
+E552,1060.84,Property Management,monthly rent,Rent/Mortgage
+E779,150.71,Geico,auto coverage,Insurance
+E421,106.35,Phone Company,phone bill,Utilities
+E600,77.08,Steam,movies,Entertainment
+E331,54.03,BP,parking fee,Transport
+E624,70.68,Xbox,theater tickets,Entertainment
+E1454,36.26,Toy Store,toys,Kids
+E651,36.45,Disney+,streaming service,Entertainment
+E725,430.77,Auto Insurance,medical insurance,Insurance
+E1432,153.28,Toys R Us,toys,Kids
+E45,72.75,Burger King,sandwich,Food
+E1467,138.3,Children's Place,kids clothes,Kids
+E971,169.99,Pharmacy,prescription,Other
+E330,76.76,Lyft,metro card,Transport
+E111,7.96,Panera Bread,weekly groceries,Food
+E570,1356.12,Mortgage Company,apartment rent,Rent/Mortgage
+E422,271.97,AT&T,phone bill,Utilities
+E774,163.42,Health Insurance,home insurance,Insurance
+E1333,319.3,Service Center,tire replacement,Car
+E1101,241.55,University,learning materials,School
+E1107,676.55,Education Center,learning materials,School
+E1157,520.27,United,flight ticket,Travel
+E1081,249.47,Udemy,course fee,School
+E1123,287.18,University,tuition,School
+E423,66.34,AT&T,utility payment,Utilities
+E1256,617.79,Loan Company,personal loan,Debt/Loans
+E1326,618.75,Discover,car loan,Debt/Loans
+E102,45.48,Local Restaurant,sandwich,Food
+E405,204.04,Phone Company,monthly utilities,Utilities
+E404,56.99,Water Dept,power bill,Utilities
+E612,57.59,Game Store,netflix subscription,Entertainment
+E78,31.22,KFC,lunch,Food
+E1443,59.68,Children's Place,kids clothes,Kids
+E429,237.33,Electric Company,power bill,Utilities
+E1144,319.75,University,education,School
+E1059,188.21,Doctor Office,medical appointment,Other
+E378,246.16,City Utilities,phone bill,Utilities
+E1168,428.82,Southwest,vacation,Travel
+E630,46.17,Game Store,music subscription,Entertainment
+E1046,288.75,Doctor Office,health checkup,Other
+E116,54.71,Pizza Hut,weekly groceries,Food
+E943,86.8,Online Store,tech purchase,Other
+E167,17.21,Starbucks,fresh produce,Food
+E275,116.88,Chevron,bus ticket,Transport
+E578,32.21,Xbox,gaming,Entertainment
+E481,1681.86,Apartment Complex,mortgage payment,Rent/Mortgage
+E388,196.54,AT&T,phone bill,Utilities
+E1544,455.04,IRA,401k contribution,Saving
+E444,103.79,Phone Company,energy bill,Utilities
+E260,52.2,Exxon,uber ride,Transport
+E806,220.65,Health Insurance,life insurance,Insurance
+E327,67.74,Gas Station,transportation,Transport
+E656,66.79,Game Store,theater tickets,Entertainment
+E1277,488.2,Capital One,mortgage interest,Debt/Loans
+E1391,147.13,Auto Parts,car wash,Car
+E1377,462.84,Car Wash,car maintenance,Car
+E1196,882.79,Hotel.com,flight ticket,Travel
+E120,53.75,KFC,pizza,Food
+E1417,101.92,Auto Parts,auto repair,Car
+E104,77.38,Food Truck,breakfast,Food
+E1479,185.04,Children's Place,kids necessities,Kids
+E1039,111.96,Hospital,health checkup,Other
+E695,76.73,Concert Hall,streaming service,Entertainment
+E956,145.01,Nordstrom,shoes,Other
+E1494,110.31,School,school fees,Kids
+E1247,735.67,Travel Agency,airfare,Travel
+E1215,912.11,Booking.com,vacation,Travel
+E1367,483.68,Car Wash,car wash,Car
+E1238,860.2,Travel Agency,airfare,Travel
+E1182,1306.76,Airbnb,travel booking,Travel
+E245,124.83,Taxi,uber ride,Transport
+E545,1987.8,Mortgage Company,housing payment,Rent/Mortgage
+E668,50.29,Spotify,music subscription,Entertainment
+E269,93.85,Lyft,ride share,Transport
+E978,231.52,Walgreens,pharmacy,Other
+E86,10.28,Cafe,meal,Food
+E1388,310.07,Mechanic,car wash,Car
+E910,110.62,H&M,household items,Other
+E567,814.63,Real Estate,apartment rent,Rent/Mortgage
+E1009,233.28,Clinic,medical appointment,Other
+E40,94.76,Cafe,groceries shopping,Food
+E1492,124.33,Babysitter,kids necessities,Kids
+E810,460.51,Progressive,home insurance,Insurance
+E952,263.0,Walmart,home goods,Other
+E1484,32.73,Babysitter,kids activities,Kids
+E234,53.0,Lyft,bus ticket,Transport
+E189,52.99,Diner,takeout,Food
+E1410,97.73,Mechanic,car repair,Car
+E1310,438.13,Lending Company,student loan,Debt/Loans
+E1483,168.75,Babysitter,kids necessities,Kids
+E257,35.36,Train Station,transportation,Transport
+E413,229.89,Phone Company,utility payment,Utilities
+E502,1245.19,Bank,monthly rent,Rent/Mortgage
+E596,21.92,HBO Max,gaming,Entertainment
+E1242,1163.54,Southwest,airfare,Travel
+E389,191.52,Electric Company,phone bill,Utilities
+E1033,375.41,Doctor Office,hospital bill,Other
+E800,455.72,Insurance Co,auto coverage,Insurance
+E1172,363.03,Airlines,travel booking,Travel
+E240,148.7,Metro,commute,Transport
+E1311,765.9,Discover,mortgage interest,Debt/Loans
+E1146,390.99,Library,school supplies,School
+E757,184.17,Allstate,medical insurance,Insurance
+E135,79.98,Diner,meat and vegetables,Food
+E1127,38.6,Coursera,tuition,School
+E556,2156.92,Bank,rental fee,Rent/Mortgage
+E976,296.06,CVS,prescription,Other
+E1306,742.62,Lending Company,loan payment,Debt/Loans
+E1461,26.83,Babysitter,kids clothes,Kids
+E133,66.1,McDonald's,breakfast,Food
+E854,178.63,Walmart,shoes,Other
+E496,1902.27,Property Management,monthly rent,Rent/Mortgage
+E112,67.91,Taco Bell,dairy products,Food
+E1371,233.83,Service Center,car parts,Car
+E447,199.12,Electric Company,heating,Utilities
+E210,38.05,Chevron,toll fee,Transport
+E680,13.23,Steam,streaming service,Entertainment
+E329,107.0,Lyft,subway fare,Transport
+E164,44.08,Chipotle,pizza,Food
+E980,317.11,Walgreens,medication,Other
+E647,24.3,Steam,spotify premium,Entertainment
+E5,67.06,KFC,supermarket,Food
+E1176,574.62,Hotel.com,accommodation,Travel
+E462,69.99,AT&T,monthly utilities,Utilities
+E1429,490.29,Auto Shop,car service,Car
+E460,128.84,AT&T,water bill,Utilities
+E1162,1208.5,Hotel.com,trip,Travel
+E1375,113.68,Oil Change,tire replacement,Car
+E563,2484.64,Housing Authority,rental fee,Rent/Mortgage
+E915,190.02,Zara,accessories,Other
+E493,1479.91,Bank,lease payment,Rent/Mortgage
+E632,19.37,Amazon Prime,shows,Entertainment
+E927,76.71,Amazon,gadgets,Other
+E1262,741.37,Bank,mortgage interest,Debt/Loans
+E1133,171.47,Udemy,course fee,School
+E179,55.23,Local Restaurant,pizza,Food
+E691,54.75,HBO Max,streaming service,Entertainment
+E591,59.1,PlayStation,video game,Entertainment
+E945,296.25,H&M,gadgets,Other
+E1514,466.18,Brokerage,investment,Saving
+E1252,358.32,Discover,car loan,Debt/Loans
+E1099,448.94,Coursera,learning materials,School
+E1354,238.65,Tire Shop,oil change,Car
+E1225,526.41,Delta,trip,Travel
+E928,255.91,Zara,fashion,Other
+E162,62.33,KFC,weekly groceries,Food
+E77,83.9,McDonald's,pizza,Food
+E675,8.7,Cinema,streaming service,Entertainment
+E661,59.2,Theater,video game,Entertainment
+E81,31.17,Chipotle,groceries shopping,Food
+E492,2206.37,Real Estate,lease payment,Rent/Mortgage
+E833,196.21,Online Store,gadgets,Other
+E480,1198.15,Property Management,housing payment,Rent/Mortgage
+E1360,412.33,Tire Shop,vehicle maintenance,Car
+E509,2299.02,Housing Authority,rental fee,Rent/Mortgage
+E122,98.6,Chipotle,coffee,Food
+E761,305.91,Auto Insurance,health insurance,Insurance
+E1512,211.03,Savings Account,savings plan,Saving
+E954,265.71,Amazon,gadgets,Other
+E132,65.45,Subway,lunch,Food
+E1118,581.53,Bookstore,training,School
+E764,160.38,Progressive,insurance premium,Insurance
+E590,78.82,Netflix,concert ticket,Entertainment
+E1005,213.87,Medical Center,prescription,Other
+E684,12.93,HBO Max,entertainment subscription,Entertainment
+E1387,94.01,Car Dealer,auto repair,Car
+E1435,159.16,Toys R Us,kids clothes,Kids
+E891,197.22,Macy's,accessories,Other
+E988,231.84,Medical Center,medical appointment,Other
+E983,388.41,CVS,medicine,Other
+E818,420.84,Health Insurance,health insurance,Insurance
+E846,298.46,Department Store,clothing purchase,Other
+E776,418.25,Allstate,health insurance,Insurance
+E537,2235.03,Property Management,lease payment,Rent/Mortgage
+E1292,660.74,Bank,loan payment,Debt/Loans
+E1374,349.8,Tire Shop,car repair,Car
+E930,28.84,Macy's,online shopping,Other
+E1158,1096.98,Southwest,vacation,Travel
+E1398,426.43,Car Wash,auto repair,Car
+E737,478.72,Allstate,car insurance,Insurance
+E1500,49.04,Babysitter,kids activities,Kids
+E1203,1164.56,United,flight ticket,Travel
+E1212,103.67,United,trip,Travel
+E762,107.1,Health Insurance,life insurance,Insurance
+E250,38.32,Chevron,train ticket,Transport
+E95,82.48,Diner,pizza,Food
+E463,288.03,AT&T,utility payment,Utilities
+E1180,261.02,Southwest,travel expenses,Travel
+E393,244.04,Water Dept,energy bill,Utilities
+E1223,249.36,Booking.com,trip,Travel
+E968,118.06,Nordstrom,clothing purchase,Other
+E456,201.07,AT&T,gas bill,Utilities
+E847,250.92,Nordstrom,clothes shopping,Other
+E539,1486.61,Mortgage Company,mortgage payment,Rent/Mortgage
+E342,77.21,Parking Lot,fuel,Transport
+E908,208.27,Department Store,accessories,Other
+E1192,180.46,Airbnb,airfare,Travel
+E1173,1131.78,Hotel.com,trip,Travel
+E778,210.37,State Farm,auto coverage,Insurance
+E546,1064.37,Housing Authority,housing payment,Rent/Mortgage
+E816,454.74,Progressive,medical insurance,Insurance
+E641,24.62,Steam,gaming,Entertainment
+E1472,122.92,Toys R Us,babysitting,Kids
+E46,81.36,KFC,dairy products,Food
+E1217,738.79,United,vacation,Travel
+E1485,186.58,Toy Store,babysitting,Kids
+E123,98.25,Cafe,dairy products,Food
+E1399,412.84,Car Wash,tire replacement,Car
+E1125,253.69,School,education,School
+E1423,123.17,Auto Parts,tire replacement,Car
+E84,94.0,Food Truck,lunch,Food
+E1228,1259.58,Expedia,holiday,Travel
+E60,38.89,Pizza Hut,lunch,Food
+E390,58.25,Verizon,gas bill,Utilities
+E47,91.81,Subway,meat and vegetables,Food
+E733,376.7,Progressive,life insurance,Insurance
+E894,193.04,Macy's,shoes,Other
+E852,50.44,Nordstrom,fashion,Other
+E1114,627.28,Coursera,course fee,School
+E315,127.58,Gas Station,gas fill up,Transport
+E1205,773.37,Expedia,travel booking,Travel
+E1224,418.82,Travel Agency,flight ticket,Travel
+E369,222.3,Verizon,internet bill,Utilities
+E879,43.47,Best Buy,clothes shopping,Other
+E1458,192.66,School,daycare,Kids
+E232,36.8,Uber,toll fee,Transport
+E1405,123.13,Tire Shop,car parts,Car
+E882,41.59,Macy's,household items,Other
+E907,265.95,Zara,fashion,Other
+E613,15.22,Steam,spotify premium,Entertainment
+E484,1202.34,Housing Authority,house payment,Rent/Mortgage
+E325,105.57,Train Station,gas fill up,Transport
+E1509,332.9,Investment,retirement contribution,Saving
+E933,260.87,Target,clothes shopping,Other
+E655,57.86,Cinema,spotify premium,Entertainment
+E1100,225.51,Udemy,education,School
+E1234,490.09,Southwest,hotel booking,Travel
+E1457,48.67,School,school fees,Kids
+E1309,718.75,Credit Card,car loan,Debt/Loans
+E667,8.54,Game Store,theater tickets,Entertainment
+E1166,1305.94,Booking.com,accommodation,Travel
+E834,28.96,Zara,home goods,Other
+E391,271.27,Electric Company,energy bill,Utilities
+E158,70.46,Cafe,supermarket,Food
+E831,191.21,Best Buy,household items,Other
+E264,105.34,Metro,metro card,Transport
+E884,103.32,Online Store,gadgets,Other
+E601,16.56,Game Store,shows,Entertainment
+E1108,530.87,Bookstore,tuition,School
+E56,70.02,Cafe,breakfast,Food
+E674,7.55,Netflix,concert ticket,Entertainment
+E256,45.16,Lyft,car ride,Transport
+E474,2205.32,Housing Authority,house payment,Rent/Mortgage
+E298,79.77,Lyft,subway fare,Transport
+E150,40.22,Burger King,weekly groceries,Food
+E1315,384.67,Discover,personal loan,Debt/Loans
+E1179,701.38,Booking.com,holiday,Travel
+E451,91.91,City Utilities,utility payment,Utilities
+E1530,651.04,Retirement Fund,investment fund,Saving
+E712,42.75,Netflix,streaming service,Entertainment
+E1259,780.5,Discover,credit payment,Debt/Loans
+E1288,526.6,Wells Fargo,mortgage interest,Debt/Loans
+E1245,324.39,Airlines,hotel booking,Travel
+E603,58.17,Cinema,concert ticket,Entertainment
+E385,174.13,Comcast,cooling,Utilities
+E822,87.97,Department Store,tech purchase,Other
+E722,228.11,Allstate,insurance premium,Insurance
+E1030,393.58,Doctor Office,health checkup,Other
+E536,1029.29,Housing Authority,rental fee,Rent/Mortgage
+E418,262.17,Electric Company,electricity bill,Utilities
+E11,5.89,Cafe,weekly groceries,Food
+E513,1709.47,Housing Authority,rent payment,Rent/Mortgage
+E572,79.13,Amazon Prime,entertainment subscription,Entertainment
+E729,439.36,Auto Insurance,auto coverage,Insurance
+E970,165.9,Best Buy,tech purchase,Other
+E1338,452.0,Auto Shop,auto repair,Car
+E414,89.98,City Utilities,power bill,Utilities
+E1007,116.02,Doctor Office,dental checkup,Other
+E1420,275.86,Car Dealer,vehicle maintenance,Car
+E518,942.55,Real Estate,lease payment,Rent/Mortgage
+E660,19.74,Theater,streaming service,Entertainment
+E550,2182.38,Real Estate,mortgage payment,Rent/Mortgage
+E649,32.53,Theater,concert ticket,Entertainment
+E990,101.75,Pharmacy,hospital bill,Other
+E301,84.57,Lyft,bus ticket,Transport
+E299,145.1,Metro,taxi fare,Transport
+E1261,741.15,Lending Company,debt payment,Debt/Loans
+E495,2164.82,Housing Authority,lease payment,Rent/Mortgage
+E794,286.48,Geico,insurance payment,Insurance
+E1119,990.33,Bookstore,books,School
+E700,7.23,Game Store,gaming,Entertainment
+E967,253.27,Department Store,clothes shopping,Other
+E1449,182.62,Babysitter,kids activities,Kids
+E1378,76.72,Car Wash,car wash,Car
+E485,2029.19,Real Estate,monthly rent,Rent/Mortgage
+E1095,659.91,Library,course fee,School
+E748,217.3,State Farm,car insurance,Insurance
+E497,1365.0,Apartment Complex,house payment,Rent/Mortgage
+E52,77.69,Local Restaurant,dinner,Food
+E1364,365.99,Auto Shop,vehicle maintenance,Car
+E1024,390.41,Dentist,pharmacy,Other
+E344,30.54,Bus Station,taxi fare,Transport
+E1268,727.47,Wells Fargo,credit card payment,Debt/Loans
+E441,232.61,AT&T,internet bill,Utilities
+E1489,68.99,Babysitter,school fees,Kids
+E645,49.08,Xbox,entertainment subscription,Entertainment
+E9,49.94,Chipotle,snack,Food
+E1213,126.48,United,airfare,Travel
+E198,33.28,Subway,food shopping,Food
+E428,139.99,Verizon,phone bill,Utilities
+E811,394.35,State Farm,home insurance,Insurance
+E267,61.7,BP,transportation,Transport
+E512,1497.51,Bank,housing payment,Rent/Mortgage
+E303,51.94,Chevron,transportation,Transport
+E166,66.53,Panera Bread,grocery store,Food
+E468,211.4,Comcast,gas bill,Utilities
+E294,134.48,Bus Station,bus ticket,Transport
+E851,53.76,Target,clothing purchase,Other
+E1075,364.86,Education Center,learning materials,School
+E1332,68.98,Oil Change,auto repair,Car
+E1026,351.95,Medical Center,medicine,Other
+E1064,195.46,Dentist,medication,Other
+E941,234.04,Nike,electronics,Other
+E338,93.9,Chevron,car ride,Transport
+E1017,88.26,Dentist,dental checkup,Other
+E1153,701.29,Travel Agency,airfare,Travel
+E516,1669.92,Property Management,housing payment,Rent/Mortgage
+E998,220.39,Walgreens,medicine,Other
+E203,29.41,Lyft,gas fill up,Transport
+E466,182.94,Verizon,internet bill,Utilities
+E20,6.03,Burger King,dairy products,Food
+E752,209.96,Geico,insurance premium,Insurance
+E938,139.01,H&M,online shopping,Other
+E750,374.26,Geico,car insurance,Insurance
+E1444,60.96,School,kids clothes,Kids
+E1270,200.32,Capital One,personal loan,Debt/Loans
+E506,1314.43,Property Management,monthly rent,Rent/Mortgage
+E1437,154.62,Toys R Us,kids necessities,Kids
+E1355,347.11,Mechanic,car maintenance,Car
+E1419,68.04,Mechanic,car service,Car
+E276,82.72,Metro,car ride,Transport
+E917,135.26,Nike,fashion,Other
+E200,24.08,Diner,groceries shopping,Food
+E1150,377.13,School,training,School
+E220,21.99,BP,subway fare,Transport
+E282,33.5,Lyft,transportation,Transport
+E686,63.12,Amazon Prime,video game,Entertainment
+E893,75.7,Nordstrom,gadgets,Other
+E337,145.94,Exxon,ride share,Transport
+E1221,521.37,Airlines,travel expenses,Travel
+E981,200.73,Pharmacy,dental checkup,Other
+E744,469.31,Insurance Co,medical insurance,Insurance
+E118,65.95,Taco Bell,food shopping,Food
+E151,74.02,Panera Bread,burger,Food
+E732,295.8,Auto Insurance,car insurance,Insurance
+E1290,723.01,Wells Fargo,car loan,Debt/Loans
+E932,138.36,Department Store,household items,Other
+E520,859.1,Landlord,housing payment,Rent/Mortgage
+E615,30.94,Netflix,theater tickets,Entertainment
+E1526,419.98,Savings Account,savings plan,Saving
+E1386,108.44,Auto Parts,car maintenance,Car
+E957,46.61,Macy's,clothes shopping,Other
+E634,17.94,Steam,gaming,Entertainment
+E455,292.45,Water Dept,internet bill,Utilities
+E435,289.62,City Utilities,cooling,Utilities
+E169,94.25,Burger King,snack,Food
+E1132,858.92,University,tuition,School
+E1539,384.77,401k,savings deposit,Saving
+E1323,264.74,Loan Company,credit card payment,Debt/Loans
+E1319,221.65,Credit Card,loan payment,Debt/Loans
+E159,44.64,Food Truck,pizza,Food
+E176,36.77,Chipotle,grocery store,Food
+E1085,833.74,University,school supplies,School
+E708,12.11,Netflix,entertainment subscription,Entertainment
+E136,94.01,Cafe,weekly groceries,Food
+E609,41.99,Concert Hall,netflix subscription,Entertainment
+E856,257.49,Target,clothes shopping,Other
+E1469,163.87,Kids Store,daycare,Kids
+E1126,479.0,Coursera,school supplies,School
+E1283,466.13,Wells Fargo,mortgage interest,Debt/Loans
+E1395,343.64,Service Center,auto repair,Car
+E745,485.93,Auto Insurance,life insurance,Insurance
+E623,72.9,Xbox,movies,Entertainment
+E608,59.21,Amazon Prime,gaming,Entertainment
+E797,382.98,Progressive,car insurance,Insurance
+E704,16.75,Xbox,gaming,Entertainment
+E268,83.89,Exxon,train ticket,Transport
+E38,45.74,Burger King,burger,Food
+E82,50.13,Starbucks,meat and vegetables,Food
+E1438,48.47,School,kids activities,Kids
+E218,110.42,Metro,subway fare,Transport
+E483,1081.17,Real Estate,housing payment,Rent/Mortgage
+E285,132.37,Exxon,transportation,Transport
+E648,56.11,Theater,video game,Entertainment
+E1548,617.56,Investment,savings transfer,Saving
+E977,343.04,Clinic,dental checkup,Other
+E163,26.47,Chipotle,fresh produce,Food
+E246,84.05,Shell,commute,Transport
+E193,85.45,Starbucks,coffee,Food
+E1335,74.71,Auto Shop,car service,Car
+E1504,598.88,Bank,retirement contribution,Saving
+E93,58.57,Pizza Hut,dinner,Food
+E1051,321.57,Medical Center,doctor visit,Other
+E258,14.93,Train Station,gas fill up,Transport
+E514,2482.48,Apartment Complex,monthly rent,Rent/Mortgage
+E525,1381.77,Landlord,apartment rent,Rent/Mortgage
+E1204,1353.86,Expedia,flight ticket,Travel
+E178,64.09,Burger King,food shopping,Food
+E39,25.53,Starbucks,burger,Food
+E997,150.56,Dentist,medication,Other
+E994,96.16,Walgreens,health checkup,Other
+E1258,333.77,Discover,student loan,Debt/Loans
+E395,257.41,Internet Provider,power bill,Utilities
+E679,35.4,HBO Max,movies,Entertainment
+E1381,439.36,Auto Shop,oil change,Car
+E1120,537.64,Coursera,training,School
+E702,8.26,Theater,theater tickets,Entertainment
+E454,121.47,Internet Provider,internet bill,Utilities
+E984,182.57,Dentist,pharmacy,Other
+E926,280.47,Zara,shoes,Other
+E64,29.72,Chipotle,burger,Food
+E129,44.14,KFC,breakfast,Food
+E305,86.17,Exxon,car ride,Transport
+E796,356.07,Insurance Co,insurance premium,Insurance
+E1029,64.86,Clinic,medical expense,Other
+E286,65.09,Chevron,metro card,Transport
+E183,25.55,Dunkin Donuts,groceries shopping,Food
+E736,306.02,Allstate,health insurance,Insurance
+E1305,698.01,Loan Company,credit payment,Debt/Loans
+E1422,410.81,Service Center,tire replacement,Car
+E237,84.77,Chevron,subway fare,Transport
+E255,131.41,Chevron,fuel,Transport
+E937,221.58,Target,electronics,Other
+E449,291.15,Verizon,heating,Utilities
+E544,1945.13,Landlord,monthly rent,Rent/Mortgage
+E92,20.45,KFC,meal,Food
+E949,29.14,Department Store,clothing purchase,Other
+E581,47.59,Game Store,gaming,Entertainment
+E1143,302.94,University,study materials,School
+E790,376.15,Health Insurance,health insurance,Insurance
+E1065,176.53,Hospital,medical appointment,Other
+E53,65.33,Diner,food shopping,Food
+E1299,523.86,Wells Fargo,personal loan,Debt/Loans
+E300,72.72,Train Station,taxi fare,Transport
+E434,147.46,Internet Provider,gas bill,Utilities
+E832,25.01,Macy's,household items,Other
+E190,87.38,Burger King,groceries shopping,Food
+E171,18.18,McDonald's,sandwich,Food
+E1023,175.44,Hospital,medical appointment,Other
+E817,277.37,Health Insurance,life insurance,Insurance
+E1053,190.9,Doctor Office,medical expense,Other
+E1287,691.53,Loan Company,credit card payment,Debt/Loans
+E622,5.47,Spotify,theater tickets,Entertainment
+E141,15.09,Chipotle,fast food,Food
+E310,57.19,Lyft,gas fill up,Transport
+E1193,836.47,Airbnb,vacation,Travel
+E1266,410.59,Credit Card,personal loan,Debt/Loans
+E1510,437.57,IRA,investment,Saving
+E549,1999.58,Landlord,monthly rent,Rent/Mortgage
+E63,64.91,Burger King,fast food,Food
+E1452,67.24,Kids Store,babysitting,Kids
+E1515,738.21,Savings Account,savings plan,Saving
+E763,311.28,Progressive,car insurance,Insurance
+E27,7.2,Diner,dairy products,Food
+E278,27.86,Taxi,parking fee,Transport
+E1321,421.17,Bank,personal loan,Debt/Loans
+E1174,238.78,United,airfare,Travel
+E1071,210.99,Education Center,education,School
+E1000,242.65,Clinic,pharmacy,Other
+E74,83.29,Diner,lunch,Food
+E1072,868.4,School,online course,School
+E627,45.29,Disney+,spotify premium,Entertainment
+E380,154.67,Water Dept,utility payment,Utilities
+E1117,433.99,Online Course,study materials,School
+E35,76.95,Burger King,supermarket,Food
+E1324,170.72,Loan Company,credit payment,Debt/Loans
+E1497,91.09,Toy Store,daycare,Kids
+E49,13.54,Subway,grocery store,Food
+E1394,304.19,Car Dealer,oil change,Car
+E1135,513.02,School,training,School
+E1106,360.34,Udemy,learning materials,School
+E573,35.25,PlayStation,movies,Entertainment
+E1070,225.7,Doctor Office,health checkup,Other
+E904,126.29,Amazon,shoes,Other
+E99,97.5,Dunkin Donuts,dinner,Food
+E620,74.73,Xbox,concert ticket,Entertainment
+E457,265.4,City Utilities,home utilities,Utilities
+E1214,1268.59,Airlines,travel expenses,Travel
+E519,1038.36,Landlord,house payment,Rent/Mortgage
+E1230,343.47,Delta,flight ticket,Travel
+E840,123.48,Nike,household items,Other
+E1337,442.94,Car Dealer,car repair,Car
+E924,79.91,Nordstrom,electronics,Other
+E1316,395.2,Bank,debt payment,Debt/Loans
+E1451,199.35,Toy Store,kids clothes,Kids
+E1286,572.24,Chase,credit card payment,Debt/Loans
+E445,62.63,Comcast,cooling,Utilities
+E929,34.3,H&M,tech purchase,Other
+E293,67.3,Parking Lot,gas fill up,Transport
+E580,53.95,Cinema,movie ticket,Entertainment
+E756,465.94,Insurance Co,home insurance,Insurance
+E252,86.59,Gas Station,bus ticket,Transport
+E861,115.56,Walmart,household items,Other
+E97,36.57,Pizza Hut,dairy products,Food
+E349,121.27,Chevron,taxi fare,Transport
+E1519,626.33,Savings Account,investment,Saving
+E947,142.17,Walmart,clothing purchase,Other
+E1167,1219.42,Delta,tourism,Travel
+E564,2368.38,Apartment Complex,rent payment,Rent/Mortgage
+E878,178.32,Walmart,household items,Other
+E912,132.89,H&M,clothing purchase,Other
+E579,54.22,Disney+,video game,Entertainment
+E819,442.11,Geico,insurance premium,Insurance
+E898,162.88,Target,accessories,Other
+E295,135.27,Bus Station,gas fill up,Transport
+E901,153.24,Amazon,online shopping,Other
+E594,5.37,Amazon Prime,streaming service,Entertainment
+E1087,64.42,Bookstore,books,School
+E1,63.99,Food Truck,burger,Food
+E841,231.42,Department Store,gadgets,Other
+E1156,1424.99,Hotel.com,travel booking,Travel
+E731,469.13,Progressive,auto coverage,Insurance
+E1105,512.36,Udemy,education,School
+E152,30.28,Diner,meat and vegetables,Food
+E597,18.29,Steam,music subscription,Entertainment
+E1045,93.1,Pharmacy,hospital bill,Other
+E631,51.87,Spotify,theater tickets,Entertainment
+E1061,322.86,Doctor Office,health checkup,Other
+E1503,686.3,Investment,retirement contribution,Saving
+E1076,455.52,Bookstore,tuition,School
+E738,444.97,Health Insurance,health insurance,Insurance
+E214,96.88,Metro,commute,Transport
+E1191,1333.03,Airbnb,travel booking,Travel
+E1021,341.23,Clinic,hospital bill,Other
+E1289,385.25,Credit Card,car loan,Debt/Loans
+E1534,832.93,Bank,retirement contribution,Saving
+E541,1880.97,Mortgage Company,lease payment,Rent/Mortgage
+E1521,971.41,IRA,savings plan,Saving
+E1536,585.26,IRA,investment fund,Saving
+E145,40.04,Burger King,food shopping,Food
+E1069,263.48,Hospital,medicine,Other
+E1220,339.47,Hotel.com,flight ticket,Travel
+E114,15.31,Taco Bell,snack,Food
+E1104,758.35,Online Course,books,School
+E469,94.91,Phone Company,internet bill,Utilities
+E231,149.63,Bus Station,car ride,Transport
+E916,35.07,Macy's,clothing purchase,Other
+E274,34.44,Parking Lot,metro card,Transport
+E1198,695.13,Airlines,travel expenses,Travel
+E991,70.66,Walgreens,medication,Other
+E727,328.02,Auto Insurance,medical insurance,Insurance
+E259,92.13,Chevron,parking fee,Transport
+E635,48.99,Concert Hall,shows,Entertainment
+E1340,108.67,Mechanic,vehicle maintenance,Car
+E1116,158.52,Online Course,training,School
+E719,42.38,Xbox,concert ticket,Entertainment
+E488,1867.15,Mortgage Company,mortgage payment,Rent/Mortgage
+E174,35.62,Burger King,pizza,Food
+E772,400.81,Auto Insurance,health insurance,Insurance
+E219,129.62,Lyft,ride share,Transport
+E319,28.03,Exxon,train ticket,Transport
+E34,69.04,Subway,coffee,Food
+E755,487.8,Progressive,auto coverage,Insurance
+E270,110.86,Chevron,metro card,Transport
+E1531,205.93,Bank,savings deposit,Saving
+E1208,211.24,United,accommodation,Travel
+E1392,81.45,Oil Change,car maintenance,Car
+E387,234.87,Comcast,cooling,Utilities
+E326,21.49,Shell,gas fill up,Transport
+E1334,407.18,Car Wash,oil change,Car
+E66,67.32,Food Truck,grocery store,Food
+E30,78.2,McDonald's,takeout,Food
+E640,75.64,Steam,concert ticket,Entertainment
+E522,1972.05,Bank,lease payment,Rent/Mortgage
+E1232,121.74,Delta,travel booking,Travel
+E254,145.26,Train Station,car ride,Transport
+E1190,1245.75,Travel Agency,hotel booking,Travel
+E1541,430.46,401k,investment,Saving
+E1246,774.77,United,vacation,Travel
+E693,8.77,Concert Hall,shows,Entertainment
+E424,107.91,Internet Provider,energy bill,Utilities
+E498,2383.38,Landlord,apartment rent,Rent/Mortgage
+E427,144.11,AT&T,monthly utilities,Utilities
+E1383,414.09,Auto Parts,vehicle maintenance,Car
+E532,1099.26,Mortgage Company,mortgage payment,Rent/Mortgage
+E628,75.51,Amazon Prime,movies,Entertainment
+E801,148.26,Health Insurance,medical insurance,Insurance
+E236,91.47,Exxon,car ride,Transport
+E207,82.87,Lyft,bus ticket,Transport
+E571,76.48,Steam,movie ticket,Entertainment
+E1486,119.2,Toy Store,babysitting,Kids
+E1390,66.24,Tire Shop,tire replacement,Car
+E524,1402.27,Real Estate,monthly rent,Rent/Mortgage
+E1008,337.28,Doctor Office,medication,Other
+E1328,731.23,Credit Card,car loan,Debt/Loans
+E1249,354.5,Expedia,travel expenses,Travel
+E942,166.02,Online Store,shoes,Other
+E1522,689.5,Bank,savings deposit,Saving
+E70,60.36,Pizza Hut,fast food,Food
+E687,58.71,Concert Hall,gaming,Entertainment
+E1352,66.81,Tire Shop,car repair,Car
+E144,98.6,Diner,coffee,Food
+E302,34.71,Taxi,bus ticket,Transport
+E408,280.25,Electric Company,phone bill,Utilities
+E812,481.86,State Farm,insurance payment,Insurance
+E1501,304.07,IRA,savings transfer,Saving
+E244,143.03,Shell,gas fill up,Transport
+E711,42.75,Xbox,shows,Entertainment
+E341,19.1,Gas Station,fuel,Transport
+E839,268.77,Department Store,household items,Other
+E346,115.3,Bus Station,uber ride,Transport
+E836,176.69,Nordstrom,clothing purchase,Other
+E792,420.01,Geico,insurance premium,Insurance
+E1445,152.14,Toy Store,kids activities,Kids
+E409,184.27,Comcast,monthly utilities,Utilities
+E784,425.14,State Farm,medical insurance,Insurance
+E888,260.42,Best Buy,retail shopping,Other
+E452,84.36,Phone Company,water bill,Utilities
+E291,38.39,Gas Station,fuel,Transport
+E844,274.98,Nike,clothes shopping,Other
+E1499,116.72,Children's Place,daycare,Kids
+E1131,862.71,Online Course,study materials,School
+E1049,367.73,Hospital,health checkup,Other
+E662,71.81,Amazon Prime,video game,Entertainment
+E598,55.52,Game Store,concert ticket,Entertainment
+E288,63.56,BP,parking fee,Transport
+E1129,663.99,University,education,School
+E523,2283.74,Landlord,rent payment,Rent/Mortgage
+E1327,449.86,Wells Fargo,mortgage interest,Debt/Loans
+E650,20.07,Netflix,movie ticket,Entertainment
+E194,62.21,Taco Bell,meat and vegetables,Food
+E458,165.86,Internet Provider,monthly utilities,Utilities
+E1465,164.73,Toy Store,babysitting,Kids
+E371,63.49,Internet Provider,cooling,Utilities
+E1318,480.71,Discover,credit payment,Debt/Loans
+E1478,86.95,Toy Store,children supplies,Kids
+E1359,487.55,Mechanic,car service,Car
+E206,71.41,Exxon,metro card,Transport
+E670,47.88,Theater,spotify premium,Entertainment
+E280,36.59,Uber,fuel,Transport
+E709,69.54,Theater,music subscription,Entertainment
+E134,13.36,Local Restaurant,groceries shopping,Food
+E999,133.06,Medical Center,health checkup,Other
+E501,2315.03,Bank,apartment rent,Rent/Mortgage
+E802,230.58,State Farm,car insurance,Insurance
+E1041,146.32,Pharmacy,medical expense,Other
+E343,38.33,Bus Station,transportation,Transport
+E1044,149.71,Dentist,doctor visit,Other
+E238,143.47,Parking Lot,ride share,Transport
+E354,59.89,Comcast,power bill,Utilities
+E995,366.05,Hospital,medical appointment,Other
+E1078,467.35,University,learning materials,School
+E36,76.46,Local Restaurant,coffee,Food
+E575,6.77,Game Store,movie ticket,Entertainment
+E228,138.27,Parking Lot,commute,Transport
+E277,60.16,Gas Station,uber ride,Transport
+E22,28.41,Taco Bell,coffee,Food
+E137,94.12,KFC,weekly groceries,Food
+E472,1473.67,Housing Authority,lease payment,Rent/Mortgage
+E1421,482.89,Auto Parts,auto repair,Car
+E1273,592.61,Discover,student loan,Debt/Loans
+E1079,979.54,Education Center,learning materials,School
+E1476,42.76,Babysitter,toys,Kids
+E768,235.73,Health Insurance,health insurance,Insurance
+E1195,1015.95,Booking.com,hotel booking,Travel
+E699,57.07,Spotify,movies,Entertainment
+E58,17.98,Starbucks,takeout,Food
+E1011,193.39,Doctor Office,medical expense,Other
+E855,135.8,H&M,fashion,Other
+E433,63.9,Phone Company,monthly utilities,Utilities
+E996,290.64,Walgreens,health checkup,Other
+E913,188.63,Nordstrom,gadgets,Other
+E373,225.82,Verizon,gas bill,Utilities
+E919,48.92,Best Buy,retail shopping,Other
+E875,128.44,Best Buy,tech purchase,Other
+E791,475.42,State Farm,auto coverage,Insurance
+E1456,126.79,Daycare,children supplies,Kids
+E1473,65.58,Toy Store,kids clothes,Kids
+E973,68.57,Medical Center,medical appointment,Other
+E1137,65.45,Online Course,course fee,School
+E690,49.42,Disney+,music subscription,Entertainment
+E857,120.97,Best Buy,electronics,Other
+E883,86.79,Online Store,clothes shopping,Other
+E1415,379.35,Auto Parts,tire replacement,Car
+E1194,1298.0,Hotel.com,trip,Travel
+E1389,349.84,Auto Shop,car parts,Car
+E366,185.72,Electric Company,internet bill,Utilities
+E1054,207.32,Medical Center,medical appointment,Other
+E397,62.09,AT&T,internet bill,Utilities
+E654,57.05,Theater,streaming service,Entertainment
+E292,126.79,Lyft,metro card,Transport
+E1380,112.25,Mechanic,car wash,Car
+E1426,321.05,Auto Shop,vehicle maintenance,Car
+E1317,346.31,Bank,credit payment,Debt/Loans
+E826,102.0,H&M,clothing purchase,Other
+E1034,53.27,Pharmacy,health checkup,Other
+E1491,93.39,Toy Store,babysitting,Kids
+E1233,1008.4,Airbnb,flight ticket,Travel
+E1470,116.37,Toy Store,school fees,Kids
+E1505,120.43,Brokerage,savings deposit,Saving
+E739,216.71,Auto Insurance,medical insurance,Insurance
+E1339,201.83,Service Center,car service,Car
+E625,49.24,Concert Hall,netflix subscription,Entertainment
+E1149,378.29,Education Center,study materials,School
+E900,163.3,Walmart,home goods,Other
+E1535,159.48,IRA,investment fund,Saving
+E809,237.35,Auto Insurance,insurance payment,Insurance
+E54,85.71,Chipotle,dairy products,Food
+E1241,508.56,Airbnb,hotel booking,Travel
+E880,234.12,Macy's,gadgets,Other
+E233,111.43,Lyft,bus ticket,Transport
+E400,95.51,City Utilities,gas bill,Utilities
+E170,48.61,Subway,supermarket,Food
+E75,9.58,Starbucks,weekly groceries,Food
+E724,371.18,Allstate,medical insurance,Insurance
+E753,156.72,State Farm,health insurance,Insurance
+E1498,197.83,Toy Store,kids activities,Kids
+E1229,1459.02,United,vacation,Travel
+E142,11.39,Panera Bread,lunch,Food
+E1407,208.29,Service Center,car maintenance,Car
+E1412,283.26,Auto Shop,car maintenance,Car
+E110,66.11,Starbucks,supermarket,Food
+E867,85.51,Amazon,shoes,Other
+E1502,893.29,401k,investment,Saving
+E76,62.93,McDonald's,fast food,Food
+E7,98.43,Food Truck,meat and vegetables,Food
+E1506,976.27,Bank,investment fund,Saving
+E28,37.69,Dunkin Donuts,pizza,Food
+E18,43.91,Food Truck,groceries shopping,Food
+E849,63.53,Best Buy,electronics,Other
+E830,122.85,Walmart,home goods,Other
+E1226,209.82,Airlines,airfare,Travel
+E554,2398.5,Landlord,housing payment,Rent/Mortgage
+E1370,290.71,Auto Parts,car service,Car
+E808,151.36,Health Insurance,insurance payment,Insurance
+E754,490.86,Progressive,medical insurance,Insurance
+E1183,958.33,Booking.com,travel expenses,Travel
+E1014,313.27,Dentist,health checkup,Other
+E726,174.54,Progressive,auto coverage,Insurance
+E1031,261.81,CVS,prescription,Other
+E621,8.69,Xbox,theater tickets,Entertainment
+E728,140.51,Geico,insurance premium,Insurance
+E975,153.69,Doctor Office,medical expense,Other
+E1403,310.11,Auto Shop,car repair,Car
+E448,71.88,Gas Company,water bill,Utilities
+E29,85.82,Starbucks,grocery store,Food
+E1251,589.75,Capital One,credit card payment,Debt/Loans
+E61,71.23,Food Truck,burger,Food
+E476,2138.31,Apartment Complex,mortgage payment,Rent/Mortgage
+E1358,444.43,Auto Shop,vehicle maintenance,Car
+E607,17.34,Game Store,gaming,Entertainment
+E1102,789.52,Library,training,School
+E771,223.98,Allstate,health insurance,Insurance
+E1161,178.51,Southwest,travel booking,Travel
+E154,36.77,Cafe,dairy products,Food
+E1090,676.92,School,study materials,School
+E431,160.3,Verizon,electricity bill,Utilities
+E824,105.71,Department Store,home goods,Other
+E4,29.41,Taco Bell,dinner,Food
+E895,128.61,Nordstrom,tech purchase,Other
+E160,41.4,Local Restaurant,breakfast,Food
+E1169,1466.28,Delta,tourism,Travel
+E21,10.33,McDonald's,snack,Food
+E31,15.88,Food Truck,lunch,Food
+E766,376.68,State Farm,car insurance,Insurance

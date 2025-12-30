@@ -1,0 +1,494 @@
+.recommendations-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Health Card */
+.health-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  border-left: 6px solid;
+}
+
+.health-card.health-excellent {
+  border-color: #43e97b;
+}
+
+.health-card.health-good {
+  border-color: #4facfe;
+}
+
+.health-card.health-fair {
+  border-color: #f093fb;
+}
+
+.health-card.health-poor {
+  border-color: #fa709a;
+}
+
+.health-score {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.score-circle {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.score-circle svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.health-excellent .score-circle circle:nth-child(2) {
+  stroke: #43e97b;
+}
+
+.health-good .score-circle circle:nth-child(2) {
+  stroke: #4facfe;
+}
+
+.health-fair .score-circle circle:nth-child(2) {
+  stroke: #f093fb;
+}
+
+.health-poor .score-circle circle:nth-child(2) {
+  stroke: #fa709a;
+}
+
+.score-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.score-number {
+  font-size: 2.5rem;
+  font-weight: bold;
+  display: block;
+}
+
+.score-label {
+  font-size: 1rem;
+  color: #888;
+}
+
+.health-info h2 {
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.health-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.health-stats .stat {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.stat-label {
+  color: #666;
+  font-weight: 500;
+}
+
+.stat-value {
+  font-weight: bold;
+  color: #43e97b;
+}
+
+.stat-value.expense {
+  color: #fa709a;
+}
+
+/* Trend Card */
+.trend-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.trend-card h3 {
+  margin-top: 0;
+}
+
+.trend-comparison {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 1rem 0;
+}
+
+.trend-item {
+  text-align: center;
+}
+
+.trend-label {
+  display: block;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.trend-value {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.trend-arrow {
+  font-size: 2rem;
+}
+
+.trend-change {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.trend-change.positive {
+  color: #43e97b;
+}
+
+.trend-change.negative {
+  color: #fa709a;
+}
+
+/* Recommendations Grid */
+.recommendations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.recommendation-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid;
+  position: relative;
+}
+
+.recommendation-card.priority-high {
+  border-color: #fa709a;
+}
+
+.recommendation-card.priority-medium {
+  border-color: #f093fb;
+}
+
+.recommendation-card.priority-low {
+  border-color: #4facfe;
+}
+
+.rec-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.rec-icon {
+  font-size: 1.5rem;
+}
+
+.rec-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.rec-message {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.rec-action {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.rec-action strong {
+  color: #667eea;
+}
+
+.rec-priority {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.rec-priority.high {
+  background: #ffe0e0;
+  color: #d32f2f;
+}
+
+.rec-priority.medium {
+  background: #fff0e0;
+  color: #f57c00;
+}
+
+.rec-priority.low {
+  background: #e0f0ff;
+  color: #1976d2;
+}
+
+/* Budget Card */
+.budget-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.budget-card h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.budget-subtitle {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.budget-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.budget-item {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.budget-item.needs {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.budget-item.wants {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+}
+
+.budget-item.savings {
+  background: linear-gradient(135deg, #43e97b 0%, #38d39f 100%);
+  color: white;
+}
+
+.budget-percentage {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.budget-item h3 {
+  margin: 0 0 1rem 0;
+}
+
+.budget-amount {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.budget-description {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  margin-bottom: 1rem;
+}
+
+.budget-categories {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.budget-categories li {
+  padding: 0.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .recommendations-container {
+    padding: 1rem;
+  }
+
+  .health-score {
+    flex-direction: column;
+  }
+
+  .score-circle {
+    width: 120px;
+    height: 120px;
+  }
+
+  .recommendations-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .budget-grid {
+    grid-template-columns: 1fr;
+  }
+}
+/* Add to the end of src/pages/Recommendations.css */
+
+/* Empty State */
+.empty-state {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3rem 2rem;
+}
+
+.empty-icon {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+.empty-state h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.empty-state > p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 3rem;
+}
+
+.empty-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.step-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.step-card:hover {
+  transform: translateY(-5px);
+}
+
+.step-number {
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0 auto 1rem;
+}
+
+.step-card h3 {
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.step-card p {
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.step-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: transform 0.2s;
+  border: none;
+  cursor: pointer;
+}
+
+.step-btn:hover:not(.disabled) {
+  transform: translateY(-2px);
+}
+
+.step-btn.disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.empty-tips {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.empty-tips h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.empty-tips ul {
+  list-style: none;
+  padding: 0;
+}
+
+.empty-tips li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  color: #666;
+}
+
+.empty-tips li:last-child {
+  border-bottom: none;
+}
+
+.empty-tips li:before {
+  content: '✓ ';
+  color: #43e97b;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
