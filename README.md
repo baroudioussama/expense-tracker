@@ -149,7 +149,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Baroudi Oussama - [https://github.com/yourusername](https://github.com/baroudioussama)
+Baroudi Oussama - [https://github.com/baroudioussama](https://github.com/baroudioussama)
 
 ## 🙏 Acknowledgments
 
